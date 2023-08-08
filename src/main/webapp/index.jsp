@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Welcome to MetroC DevOps Course 2023/h2>
 </body>
 </html>
